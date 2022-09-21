@@ -1,4 +1,6 @@
-package com.bootcoding.oops;
+package com.bootcoding.oops.incapsulation;
+
+import com.bootcoding.oops.incapsulation.Animal;
 
 public class Dog extends Animal {
 

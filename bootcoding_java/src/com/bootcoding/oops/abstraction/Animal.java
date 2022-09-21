@@ -2,7 +2,7 @@ package com.bootcoding.oops.abstraction;
 
 public abstract class Animal {
     public void sleep(){
-        System.out.println("Animal is sleeping");
+        System.out.println("Im Animal and Im  sleeping");
     }
     public void see(){
         System.out.println("Animal watching");

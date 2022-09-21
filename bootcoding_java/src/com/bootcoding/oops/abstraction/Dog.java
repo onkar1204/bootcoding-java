@@ -1,6 +1,5 @@
 package com.bootcoding.oops.abstraction;
 
-import com.bootcoding.oops.Animal;
 
 public class Dog extends Animal {
 
@@ -13,5 +12,8 @@ public class Dog extends Animal {
     public void run(){
         System.out.println("Dog run fast");
     }
-
+    public void sleep(){
+        super.sleep();
+        System.out.println("Im Dog and Im Sleeping");
+    }
 }

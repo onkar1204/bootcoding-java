@@ -1,4 +1,4 @@
-package com.bootcoding.oops;
+package com.bootcoding.oops.incapsulation;
 
 public class Marker2 {
     String company;

@@ -1,7 +1,11 @@
-package com.bootcoding.oops;
+package com.bootcoding.oops.incapsulation;
+
+import java.util.Date;
 
 public class Application {
     public static void main(String[] args) {
+        Date st = new Date();
+
         Marker2 m1=new Marker2();
         m1.setCompany("Apsara");
         m1.setColour("Red");
@@ -18,9 +22,6 @@ public class Application {
         System.out.println(m2.getType());
         System.out.println(m2.getColour());
         System.out.println(m2.getPrice());
-
-
-
 
 
 
@@ -51,12 +52,8 @@ public class Application {
         d.run();
        //d.sleep();
 
-
-
-
-
-
-
+     Date et = new Date();
+        System.out.println(et.getTime()-st.getTime() + " ms");
 
 
     }
