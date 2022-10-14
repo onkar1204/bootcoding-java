@@ -1,6 +1,16 @@
 package com.bootcoding.oops.incapsulation;
 
 public class Marker2 {
+    long id;
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
+
     String company;
     String type;
     String colour;

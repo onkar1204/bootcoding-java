@@ -56,6 +56,9 @@ public class Application {
         System.out.println(et.getTime()-st.getTime() + " ms");
 
 
+
+
+        Cycle c = new Cycle();
     }
 
 }
