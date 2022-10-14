@@ -1,6 +1,6 @@
 package com.bootcoding.basic;
 
-import com.bootcoding.oops.incapsulation.Fan;
+import com.bootcoding.oops.encapsulation.Fan;
 import org.junit.Assert;
 import org.junit.Test;
 

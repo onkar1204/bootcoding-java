@@ -1,6 +1,6 @@
 package com.bootcoding.collection;
 
-import com.bootcoding.oops.incapsulation.Marker2;
+import com.bootcoding.oops.encapsulation.Marker2;
 
 import java.util.HashMap;
 import java.util.Map;

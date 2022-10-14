@@ -1,6 +1,6 @@
 package com.bootcoding.oops.abstraction;
 
-import com.bootcoding.oops.incapsulation.Animal;
+import com.bootcoding.oops.encapsulation.Animal;
 
 public class Cat extends Animal {
 

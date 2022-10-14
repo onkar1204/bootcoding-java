@@ -1,6 +1,6 @@
 package com.bootcoding.collection;
 
-import com.bootcoding.oops.incapsulation.Books;
+import com.bootcoding.oops.encapsulation.Books;
 
 
 import java.util.HashMap;

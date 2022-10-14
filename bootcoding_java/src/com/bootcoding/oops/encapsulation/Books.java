@@ -1,4 +1,4 @@
-package com.bootcoding.oops.incapsulation;
+package com.bootcoding.oops.encapsulation;
 
 public class Books {
     String title;

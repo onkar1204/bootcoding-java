@@ -1,4 +1,4 @@
-package com.bootcoding.oops.incapsulation;
+package com.bootcoding.oops.encapsulation;
 
 public class Fan {
     final int MAX_SPEED=5;
