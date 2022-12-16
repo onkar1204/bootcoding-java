@@ -10,7 +10,7 @@ public class FileWriteExample {
 
 
         try {
-            File file = new File("C://file//output.txt");
+            File file = new File("C://file//sakshi.txt");
             if (file.createNewFile()){
                 System.out.println(" File Has Been Created");
 
@@ -25,7 +25,7 @@ public class FileWriteExample {
             System.out.println(" Absolute File Path : " + file.getAbsolutePath());
 
             FileWriter fw = new FileWriter(file);
-            fw.write(" Welcome To File Writing Example, Data Has Been Writen By Programatically!");
+            fw.write("sakshi ladka hai");
             fw.close();
 
             System.out.println(" File Contents");
