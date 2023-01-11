@@ -34,9 +34,8 @@ public class ScannerDemo1 {
     }
 
     private static double calcAverage(int maths, int physics, int chemistry) {
+
         double sum = maths + physics + chemistry;
-
-
         sum = sum/3;
 
         double avrage = sum;
