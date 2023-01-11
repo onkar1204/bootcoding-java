@@ -4,7 +4,6 @@ import java.util.Scanner;
 //Write A method To Find Largest Element Of An Array
 public class MaxArrayMethod {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter length Of Array");
         int s = sc.nextInt();
