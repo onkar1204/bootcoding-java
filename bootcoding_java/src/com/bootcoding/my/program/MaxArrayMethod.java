@@ -9,24 +9,17 @@ public class MaxArrayMethod {
         System.out.println("Enter length Of Array");
         int s = sc.nextInt();
         int[] num = new int[s];
-
         for (int i = 0; i < num.length; i++) {
             System.out.println("Enter number ");
             num[i] = sc.nextInt();
         }
-
         MaxArrayMethod max = new MaxArrayMethod();
         int res = MaxArrayMethod.findLargestElement(num);
-
             System.out.println(" Max Element Of Array Is: " + res);
         }
-
     public static int findLargestElement(int[] num) {
-
         int max = num[0];
-
         for (int i = 0; i < num.length; i++) {
-
             if (num[i] > max) {
                 max = num[i];
             }
