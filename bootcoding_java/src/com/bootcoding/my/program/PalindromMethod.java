@@ -1,7 +1,6 @@
 package com.bootcoding.my.program;
 
 import java.util.Scanner;
-
 public class PalindromMethod {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -9,13 +8,11 @@ public class PalindromMethod {
         int[] numbers = takeArrayFromUser(scanner, size);
         printPalindromFromArray(numbers);
     }
-
     private static int inputArraySize(Scanner scanner) {
         System.out.println("Enter Array Length: ");
         int size = scanner.nextInt();
         return size;
     }
-
     private static int[] takeArrayFromUser(Scanner scanner, int size) {
         System.out.println(" Enter Elements: ");
         int[] numbers = new int[size];
@@ -24,9 +21,7 @@ public class PalindromMethod {
         }
         return numbers;
     }
-
     private static void printPalindromFromArray(int[] num){
-
         int temp = 0;
         for (int i = 0; i < num.length; i++) {
             int rem = 0;
@@ -38,16 +33,11 @@ public class PalindromMethod {
                 rem = rem * 10 + n % 10;
                 n = div;
             }
-
-
             if(rem == temp){
             System.out.println(rem + " Is   Palindrom");
         }else {
             System.out.println(rem + " Is Not Palindrom");
         }
-
         }
-
     }
-
 }
