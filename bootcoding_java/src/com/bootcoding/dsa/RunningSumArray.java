@@ -1,8 +1,8 @@
-package com.bootcoding.myexample;
-class Solution {
+package com.bootcoding.dsa;
+class RunningSumArray {
     public static void main(String[] args) {
         int[] nums = {1,2,3,4};
-        Solution solution = new Solution();
+        RunningSumArray solution = new RunningSumArray();
        int [] res = solution.runningSum(nums);
         for (int i=0; i<res.length; i++){
             System.out.println(res[i]);
