@@ -14,7 +14,7 @@ public class Factorial {
 
 
         Factorial f = new Factorial ();
-         int k=f.factorial(5);
+         int k=f.factorial(4);
         System.out.println(+k);
     }
 
