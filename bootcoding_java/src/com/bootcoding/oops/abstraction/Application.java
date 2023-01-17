@@ -3,9 +3,16 @@ package com.bootcoding.oops.abstraction;
 public class Application {
     public static void main(String[] args) {
 
-        Dog d = new Dog();
-        d.sleep();
-
-
+        Animal d = new Dog();
+        Animal c = new Cat();
+        Animal g = new Goat();
+        test(d);
+    }
+    public static void test(Animal a){
+        if(a instanceof Cat){
+            // processing for cat
+        }else if (a instanceof  Dog){
+            // processing for dog
+        }
     }
 }
