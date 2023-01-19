@@ -12,7 +12,7 @@ public class RecursionExample5 {
 
         }
         public static void main(String[] args) {
-            int num = 883083265;
+            int num = 38;
             int sum = 0;
             RecursionExample5 recursionExample = new RecursionExample5();
             System.out.println(sumOfDigit(num,sum));
