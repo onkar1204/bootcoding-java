@@ -10,7 +10,6 @@ public class array {
         rollno[3] = 24;
 /*
 int count = 0;
-
         System.out.println(rollno[count]);
         count = count  + 1;
         System.out.println(rollno[count]);
@@ -20,8 +19,6 @@ int count = 0;
         System.out.println(rollno[count]);
         count = count  + 1;
         System.out.println(rollno[count]);*/
-
-
         for(int count=0; count < 5; count++){
             System.out.println(rollno[count]);
         }
