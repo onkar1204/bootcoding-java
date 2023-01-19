@@ -21,6 +21,7 @@ public class PalindromMethod {
         }
         return numbers;
     }
+
     private static void printPalindromFromArray(int[] num){
         int temp = 0;
         for (int i = 0; i < num.length; i++) {
