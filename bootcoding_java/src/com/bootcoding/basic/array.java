@@ -1,5 +1,4 @@
 package com.bootcoding.basic;
-
 public class array {
     public static void main(String[] args) {
         int age[]= {21,20,19,24,25};
