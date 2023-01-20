@@ -9,7 +9,6 @@ public class array1 {
         age[3] = 25;
         age[4] = 30;
         for(int count=0;  count < 5; count++){
-
             System.out.println(age[count]);
 
         }
