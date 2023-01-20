@@ -12,5 +12,4 @@ public class array1 {
             System.out.println(age[count]);
         }
     }
-
 }
