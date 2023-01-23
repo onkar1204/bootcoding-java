@@ -12,9 +12,6 @@ public class ReverseInteger {
         int div = 0;
         int rem =0;
 
-        System.out.println(Integer.MAX_VALUE);
-        System.out.println(Integer.MIN_VALUE);
-
         if (x> Integer.MAX_VALUE || x<  Integer.MIN_VALUE){
             return 0;
         }
