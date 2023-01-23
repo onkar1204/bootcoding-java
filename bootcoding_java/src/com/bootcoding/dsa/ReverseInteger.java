@@ -9,7 +9,6 @@ public class ReverseInteger {
 
     }
     public static int reverse(int x) {
-
         int div = 0;
         int rem =0;
 
