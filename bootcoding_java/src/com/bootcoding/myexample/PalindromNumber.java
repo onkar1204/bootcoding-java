@@ -5,7 +5,6 @@ public class PalindromNumber {
     public static void main(String args[]){
 
     int rem = 0;
-
     int n = 239;
     int temp = n;
         while(n != 0){
