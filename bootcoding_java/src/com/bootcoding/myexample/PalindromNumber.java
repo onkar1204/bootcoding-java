@@ -7,7 +7,6 @@ public class PalindromNumber {
     int rem = 0;
 
     int n = 239;
-
     int temp = n;
         while(n != 0){
     int div = n/10;
