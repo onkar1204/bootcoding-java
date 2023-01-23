@@ -16,7 +16,6 @@ public class PalindromNumber {
         System.out.println( rem + " Is   Palindrom");
     }else{
         System.out.println( rem + " Is Not Palindrom");
-
         }
     }
 }
