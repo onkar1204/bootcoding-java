@@ -17,7 +17,6 @@ public class ReverseInteger {
         }
         while(x != 0){
             div = x/10;
-
             rem = rem * 10 + x%10;
 
             x = div;
