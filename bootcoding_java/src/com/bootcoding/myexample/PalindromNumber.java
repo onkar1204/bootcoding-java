@@ -14,7 +14,6 @@ public class PalindromNumber {
     int div = n/10;
 
         rem = rem * 10 + n%10;
-
         n = div;
     }
         if(rem == temp){
