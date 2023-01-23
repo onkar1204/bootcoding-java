@@ -15,7 +15,6 @@ public class ReverseInteger {
         if (x> Integer.MAX_VALUE || x<  Integer.MIN_VALUE){
             return 0;
         }
-
         while(x != 0){
 
             div = x/10;
