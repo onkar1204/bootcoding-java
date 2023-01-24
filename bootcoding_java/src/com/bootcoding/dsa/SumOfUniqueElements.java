@@ -18,7 +18,6 @@ public class SumOfUniqueElements {
         }else {
             unique.put(nums[i],unique.get(nums[i]) + 1);
         }
-
     }
     for (int key: unique.keySet()){
         if (unique.get(key) == 1){
