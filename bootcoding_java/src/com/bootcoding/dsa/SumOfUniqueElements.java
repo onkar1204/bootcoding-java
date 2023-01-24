@@ -13,7 +13,6 @@ public class SumOfUniqueElements {
         Map<Integer , Integer> unique = new HashMap<>();
         int sum = 0;
     for (int i=0; i< nums.length; i++) {
-
         if (null == unique.get(nums[i])){
             unique.put(nums[i] , 1);
         }else {
