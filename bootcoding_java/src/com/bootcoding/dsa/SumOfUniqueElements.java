@@ -24,7 +24,6 @@ public class SumOfUniqueElements {
             sum = sum + key;
         }
     }
-
     return sum;
     }
 }
