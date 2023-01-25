@@ -25,7 +25,6 @@ public class CommonDivisor {
               if (min % i == 0 && max % i == 0){
                   sum = i;
               }
-
           }
     return sum;
     }
