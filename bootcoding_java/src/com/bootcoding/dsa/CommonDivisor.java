@@ -8,7 +8,6 @@ public class CommonDivisor {
         int[] nums={3,3};
 
         System.out.println(findGCD(nums));
-
         }
     public static int findGCD(int[] nums) {
           Arrays.sort(nums);
