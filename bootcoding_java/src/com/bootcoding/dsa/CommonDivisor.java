@@ -20,7 +20,6 @@ public class CommonDivisor {
           int min = nums[0];
           int sum = 0;
           for (int i=1; i<=max; i++) {
-
               if (min % i == 0 && max % i == 0){
                   sum = i;
               }
