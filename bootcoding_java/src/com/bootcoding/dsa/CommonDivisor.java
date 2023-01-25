@@ -15,7 +15,6 @@ public class CommonDivisor {
     public static int findGCD(int[] nums) {
 
           Arrays.sort(nums);
-
           int max =nums[nums.length-1];
           int min = nums[0];
           int sum = 0;
