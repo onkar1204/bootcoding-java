@@ -11,7 +11,6 @@ public class PowerOfThree {
 
                 isPowerOfThree(n));
     }
-
     public static boolean isPowerOfThree(int n) {
         if (n == 1) return true;
         if (n == 0) return false;
