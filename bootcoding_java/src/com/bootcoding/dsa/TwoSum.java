@@ -20,6 +20,10 @@ public class TwoSum {
                 arr[1] = i;
                 return arr;
             }
+
+
+
+
             else{
                 map.put(target-nums[i] , i);
             }
