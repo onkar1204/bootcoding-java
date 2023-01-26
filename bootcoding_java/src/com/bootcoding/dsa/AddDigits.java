@@ -15,5 +15,3 @@ public class AddDigits{
 
         }
     }
-
-    //18, 234, 123, 72
