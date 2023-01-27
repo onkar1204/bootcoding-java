@@ -30,6 +30,4 @@ public class ApplyOperationsToAnArray {
         }
         return nums;
     }
-
-
 }
