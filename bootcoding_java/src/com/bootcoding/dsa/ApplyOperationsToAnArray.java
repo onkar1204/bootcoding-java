@@ -9,7 +9,6 @@ public class ApplyOperationsToAnArray {
             System.out.println(res[i]);
         }
     }
-
     public static int[] applyOperations(int[] nums) {
 
         for (int i=0; i<nums.length-1; i++){
