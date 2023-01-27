@@ -13,7 +13,6 @@ public class MoveZeroes {
                 x++;
 
                 System.out.println(nums[i]);
-
             }
         }
             for (int j=x; j< nums.length; j++) {
