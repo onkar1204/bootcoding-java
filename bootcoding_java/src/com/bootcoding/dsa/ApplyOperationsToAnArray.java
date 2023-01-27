@@ -28,7 +28,6 @@ public class ApplyOperationsToAnArray {
         for (int j = x; j < nums.length; j++) {
             nums[j] = 0;
         }
-
         return nums;
     }
 }
