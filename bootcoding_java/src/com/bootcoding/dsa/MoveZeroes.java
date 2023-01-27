@@ -11,7 +11,6 @@ public class MoveZeroes {
             if (nums[i] != 0) {
                 nums[x] = nums[i];
                 x++;
-
                 System.out.println(nums[i]);
             }
         }
