@@ -17,7 +17,6 @@ public class MoveZeroes {
             nums[j] = 0;
         }
 
-
         for (int k=0; k< nums.length; k++){
             System.out.println(nums[k]);
         }
