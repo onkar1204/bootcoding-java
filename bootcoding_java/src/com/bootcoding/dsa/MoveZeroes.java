@@ -20,7 +20,6 @@ public class MoveZeroes {
 
             for (int j=x; j< nums.length; j++) {
                 nums[j] = 0;
-
                 System.out.println(nums[j]);
         }
     }
