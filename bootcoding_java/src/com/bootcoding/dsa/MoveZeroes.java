@@ -22,7 +22,6 @@ public class MoveZeroes {
                 nums[j] = 0;
 
                 System.out.println(nums[j]);
-
         }
     }
 }
