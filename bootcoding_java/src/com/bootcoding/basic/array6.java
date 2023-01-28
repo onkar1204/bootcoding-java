@@ -13,7 +13,6 @@ public class array6 {
         numbers[7] = 95;
 
         for(int i=0; i<numbers.length; i ++){
-
             if (numbers[i] ==80 ){
                 System.out.println(numbers[i] + " Found ");
             }
