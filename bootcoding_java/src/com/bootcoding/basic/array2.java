@@ -11,6 +11,5 @@ public class array2 {
             for(int count=0; count < 5; count++){
             System.out.println(fruit[count]);
         }
-
     }
 }
