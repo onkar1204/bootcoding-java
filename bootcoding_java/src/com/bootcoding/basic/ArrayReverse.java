@@ -3,7 +3,6 @@ package com.bootcoding.basic;
 public class ArrayReverse {
     public static void main(String[] args) {
         int a[] = {5, 7, 8, 11, 13,34,58};
-
         int n = a.length;
 
         for (int i = 0; i<n; i++){
