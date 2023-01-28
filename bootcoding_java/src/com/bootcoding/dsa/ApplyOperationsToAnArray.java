@@ -6,7 +6,8 @@ public class ApplyOperationsToAnArray {
 //        Output: [1,4,2,0,0,0]
         int[] res = applyOperations(nums);
         for (int i=0; i< res.length; i++) {
-            System.out.println(res[i]);
+            System.out.print(res[i] + " ");
+
         }
     }
     public static int[] applyOperations(int[] nums) {
