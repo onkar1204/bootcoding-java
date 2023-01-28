@@ -15,7 +15,6 @@ public class array6 {
             if (numbers[i] ==80 ){
                 System.out.println(numbers[i] + " Found ");
             }
-
         }
     }
 }
