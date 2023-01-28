@@ -16,7 +16,6 @@ public class array6 {
                 System.out.println(numbers[i] + " Found ");
             }
 
-
         }
     }
 }
