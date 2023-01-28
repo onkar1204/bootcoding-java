@@ -12,6 +12,5 @@ public class array2 {
             System.out.println(fruit[count]);
         }
 
-
     }
 }
