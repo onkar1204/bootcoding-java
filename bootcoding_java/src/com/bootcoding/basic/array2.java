@@ -2,7 +2,6 @@ package com.bootcoding.basic;
 
 public class array2 {
     public static void main(String[] args) {
-
         String fruit[] = new String [5];
         fruit[0] = "apple";
         fruit[1] = "avacado";
