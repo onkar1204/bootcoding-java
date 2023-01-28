@@ -7,7 +7,6 @@ public class ArrayReverse {
         for (int i = 0; i<n; i++){
             System.out.print(a[i] + " ");
         }
-
         for (int i = 0; i < n/2; i++){
             int temp = a[i];
             a[i] = a[n-1-i];
