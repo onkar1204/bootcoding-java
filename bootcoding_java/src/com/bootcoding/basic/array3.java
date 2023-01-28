@@ -1,5 +1,4 @@
 package com.bootcoding.basic;
-
 public class array3 {
     public static void main(String[] args) {
         String month[] = new String[12];
