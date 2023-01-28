@@ -20,6 +20,5 @@ public class array3 {
                     System.out.println(month[i]);
                 }
 
-
     }
 }
