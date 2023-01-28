@@ -1,5 +1,4 @@
 package com.bootcoding.basic;
-
 public class array6 {
     public static void main(String[] args) {
         int numbers[] = new int [8];
