@@ -11,7 +11,6 @@ public class DifferenceBetweenElementSumAndDigitSumOfAnArray {
         System.out.println(differenceOfSum(nums));
 
 
-
     }
 
     public static int differenceOfSum(int[] nums) {
