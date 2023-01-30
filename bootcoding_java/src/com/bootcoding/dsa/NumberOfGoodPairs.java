@@ -6,7 +6,6 @@ public class NumberOfGoodPairs {
         //Output: 4
         System.out.println(numIdenticalPairs(nums));
     }
-
     public static int numIdenticalPairs(int[] nums) {
         int count = 0;
         for (int i=0; i<nums.length; i++){
