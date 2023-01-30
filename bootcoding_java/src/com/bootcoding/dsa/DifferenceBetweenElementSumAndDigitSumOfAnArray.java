@@ -1,7 +1,6 @@
 package com.bootcoding.dsa;
 
 public class DifferenceBetweenElementSumAndDigitSumOfAnArray {
-
     public static void main(String[] args) {
         int[] nums = {12,97,48,72,31,70,1,9,78,28,1,30,82,17,43,44,53,12,73,16,74,24,79,9,
                 51,77,36,38,81,38,69,60,29,21,66,6,62,55,13,90,66,7,15,15,60,76,44,30,6,86,
