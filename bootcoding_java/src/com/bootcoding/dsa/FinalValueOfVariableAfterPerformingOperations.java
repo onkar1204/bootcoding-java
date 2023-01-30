@@ -5,7 +5,6 @@ public class FinalValueOfVariableAfterPerformingOperations {
         String[] operations = {"X++","++X","--X","X--"};
         System.out.println(finalValueAfterOperations(operations));
     }
-
     public static int finalValueAfterOperations(String[] operations) {
 
         int x = 0;
