@@ -23,5 +23,4 @@ public class DifferenceBetweenElementSumAndDigitSumOfAnArray {
         }
            return Math.abs(elementsum - digitsum);
     }
-
 }
