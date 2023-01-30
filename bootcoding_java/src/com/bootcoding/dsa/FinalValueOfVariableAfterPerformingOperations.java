@@ -18,7 +18,6 @@ public class FinalValueOfVariableAfterPerformingOperations {
             }else if (operations[i].equals("X--")){
                 x=x-1;
             }
-
         }
 
         return x;
