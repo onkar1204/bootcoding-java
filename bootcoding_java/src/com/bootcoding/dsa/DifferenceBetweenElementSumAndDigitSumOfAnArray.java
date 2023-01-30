@@ -9,7 +9,6 @@ public class DifferenceBetweenElementSumAndDigitSumOfAnArray {
 //        Output: 9
         System.out.println(differenceOfSum(nums));
     }
-
     public static int differenceOfSum(int[] nums) {
         int elementsum = 0;
         int digitsum = 0;
