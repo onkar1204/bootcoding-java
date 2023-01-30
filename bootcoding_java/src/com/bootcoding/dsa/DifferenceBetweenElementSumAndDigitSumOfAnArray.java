@@ -9,7 +9,6 @@ public class DifferenceBetweenElementSumAndDigitSumOfAnArray {
                 50,57,60,4,99,44,39,12,95,32,66,100,45,42,22,35,65,7,49,43,41,40,64,78};
 //        Output: 9
         System.out.println(differenceOfSum(nums));
-
     }
 
     public static int differenceOfSum(int[] nums) {
