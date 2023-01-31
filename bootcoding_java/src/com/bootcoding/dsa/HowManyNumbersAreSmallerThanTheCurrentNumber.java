@@ -1,5 +1,4 @@
 package com.bootcoding.dsa;
-
 public class HowManyNumbersAreSmallerThanTheCurrentNumber {
     public static void main(String[] args) {
         int[] nums = {8,1,2,2,3};
