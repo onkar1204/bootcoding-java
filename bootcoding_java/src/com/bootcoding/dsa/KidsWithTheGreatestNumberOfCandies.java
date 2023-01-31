@@ -22,7 +22,6 @@ public class KidsWithTheGreatestNumberOfCandies {
                 max = candies[j];
             }
         }
-
             for (int i = 0; i < candies.length; i++) {
 
                 if (candies[i] + extraCandies >= max) {
