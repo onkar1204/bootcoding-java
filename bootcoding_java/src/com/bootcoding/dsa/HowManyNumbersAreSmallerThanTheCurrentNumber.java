@@ -13,7 +13,6 @@ public class HowManyNumbersAreSmallerThanTheCurrentNumber {
         int[] arr = new int[nums.length];
         for (int i=0; i< nums.length; i++){
             int count = 0;
-
             for (int l=0; l< nums.length; l++){
                 if (nums[i] > nums[l]){
                     count++;
