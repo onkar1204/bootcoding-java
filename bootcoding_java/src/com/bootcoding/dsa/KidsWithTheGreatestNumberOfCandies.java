@@ -7,7 +7,6 @@ public class KidsWithTheGreatestNumberOfCandies {
         int[] candies = {2,3,5,1,3};
         int extraCandies = 3;
        // Output: [true,true,true,false,true]
-
         KidsWithTheGreatestNumberOfCandies kds = new KidsWithTheGreatestNumberOfCandies();
         for (Boolean kh : kds.kidsWithCandies(candies,extraCandies)){
             System.out.println(kh);
