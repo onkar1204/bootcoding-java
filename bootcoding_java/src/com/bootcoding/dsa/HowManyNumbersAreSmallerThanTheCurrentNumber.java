@@ -20,6 +20,5 @@ public class HowManyNumbersAreSmallerThanTheCurrentNumber {
             arr[i] = count;
         }
         return arr;
-
     }
 }
