@@ -28,7 +28,6 @@ public class KidsWithTheGreatestNumberOfCandies {
                 } else {
                     list.add(false);
                 }
-
             }
             return list;
         }
