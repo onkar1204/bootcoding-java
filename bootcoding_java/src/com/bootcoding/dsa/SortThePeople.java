@@ -23,7 +23,6 @@ public class SortThePeople {
        String[] res = new String[names.length];
         int index = 0;
        for (int a= heights.length-1; a>=0; a--){
-
            res[index] = map.get(heights[a]);
            index++;
        }
