@@ -2,7 +2,6 @@ package com.bootcoding.dsa;
 
 import java.util.ArrayList;
 import java.util.List;
-
 public class KidsWithTheGreatestNumberOfCandies {
     public static void main(String[] args) {
         int[] candies = {2,3,5,1,3};
