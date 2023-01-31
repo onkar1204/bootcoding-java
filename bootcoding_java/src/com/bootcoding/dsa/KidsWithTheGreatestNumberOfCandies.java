@@ -12,7 +12,6 @@ public class KidsWithTheGreatestNumberOfCandies {
         for (Boolean kh : kds.kidsWithCandies(candies,extraCandies)){
             System.out.println(kh);
         }
-
     }
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
 
