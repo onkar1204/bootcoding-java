@@ -7,7 +7,6 @@ public class HowManyNumbersAreSmallerThanTheCurrentNumber {
         for (int a : smallerNumbersThanCurrent(nums)){
             System.out.println(a);
         }
-
     }
     public static int[] smallerNumbersThanCurrent(int[] nums) {
         int[] arr = new int[nums.length];
