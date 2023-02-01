@@ -19,7 +19,6 @@ public class RomanToInteger {
         rom.put('C' , 100);
         rom.put('D' , 500);
         rom.put('M' , 1000);
-
        s = s.replace("IV" , "IIII");
        s = s.replace("IX" , "VIIII");
        s = s.replace("XL" , "XXXX");
