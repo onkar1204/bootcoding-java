@@ -6,7 +6,6 @@ public class CountEqualandDivisiblePairsinanArray {
        int k = 2;
 //        Output: 4
         System.out.println(countPairs(nums , k));
-
     }
     public static int countPairs(int[] nums, int k) {
         int count =0;
