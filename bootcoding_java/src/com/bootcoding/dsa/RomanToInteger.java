@@ -12,7 +12,6 @@ public class RomanToInteger {
     }
     public static int romanToInt(String s) {
         Map<Character , Integer> rom = new HashMap<>();
-
         rom.put('I' , 1);
         rom.put('V' , 5);
         rom.put('X' , 10);
