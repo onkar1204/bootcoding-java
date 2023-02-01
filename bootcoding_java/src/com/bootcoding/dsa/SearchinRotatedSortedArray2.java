@@ -5,7 +5,6 @@ public class SearchinRotatedSortedArray2 {
        int[] nums = {2,5,6,0,0,1,2};
        int target = 0;
        // Output: true
-
         System.out.println(search(nums , target));
     }
     public static boolean search(int[] nums, int target) {
