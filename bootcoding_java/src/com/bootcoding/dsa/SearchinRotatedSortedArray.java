@@ -6,7 +6,6 @@ public class SearchinRotatedSortedArray {
         int target = 0;
       //  Output: 4
         System.out.println(search(nums , target));
-
     }
     public static int search(int[] nums, int target) {
 
