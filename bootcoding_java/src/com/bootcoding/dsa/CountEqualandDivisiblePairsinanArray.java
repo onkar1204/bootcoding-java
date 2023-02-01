@@ -1,5 +1,4 @@
 package com.bootcoding.dsa;
-
 public class CountEqualandDivisiblePairsinanArray {
     public static void main(String[] args) {
        int[] nums = {3,1,2,2,2,1,3};
