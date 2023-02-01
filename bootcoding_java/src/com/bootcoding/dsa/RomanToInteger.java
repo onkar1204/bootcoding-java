@@ -25,7 +25,6 @@ public class RomanToInteger {
        s = s.replace("XC" , "LXXXX");
        s = s.replace("CD" , "CCCC");
        s = s.replace("CM" , "DCCCC");
-
         int num = 0;
         for (int i=0; i<s.length(); i++){
             num = num + rom.get(s.charAt(i));
