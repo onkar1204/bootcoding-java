@@ -7,7 +7,6 @@ public class SearchinRotatedSortedArray2 {
        // Output: true
 
         System.out.println(search(nums , target));
-
     }
     public static boolean search(int[] nums, int target) {
 
