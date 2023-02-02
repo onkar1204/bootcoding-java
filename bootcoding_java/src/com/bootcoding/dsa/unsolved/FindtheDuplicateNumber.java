@@ -9,7 +9,6 @@ public class FindtheDuplicateNumber {
         //        Output: 2
         System.out.println(findDuplicate(nums));
     }
-
     public static int findDuplicate(int[] nums) {
         Map<Integer,Integer> map = new HashMap<>();
            for (int i = 0; i < nums.length; i++) {
