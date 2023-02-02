@@ -9,7 +9,6 @@ public class SearchInsertPosition {
 //        Output: 2
         System.out.println(searchInsert(nums , target));
     }
-
     public static int searchInsert(int[] nums, int target) {
         int res = nums.length;
         for(int i=0; i<nums.length; i++){
