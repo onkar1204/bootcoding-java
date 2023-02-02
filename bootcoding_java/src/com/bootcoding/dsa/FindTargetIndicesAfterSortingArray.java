@@ -23,7 +23,6 @@ public class FindTargetIndicesAfterSortingArray {
         for (int i=0; i< nums.length; i++){
             if (target == nums[i]){
                 list.add(i);
-
             }
         }
         return list;
