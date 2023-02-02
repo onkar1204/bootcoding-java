@@ -12,8 +12,6 @@ public class FindTargetIndicesAfterSortingArray {
         int target = 2;
 //        Output: [1,2]
         FindFirstandLastPositionofElementinSortedArray find = new FindFirstandLastPositionofElementinSortedArray();
-
-
             System.out.println(targetIndices(nums,target));
     }
     public static   List <Integer> targetIndices(int[] nums, int target) {
