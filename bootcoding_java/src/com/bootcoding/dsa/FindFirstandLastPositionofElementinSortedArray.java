@@ -10,7 +10,6 @@ public class FindFirstandLastPositionofElementinSortedArray {
             System.out.println(res[i]);
         }
     }
-
     public static int[] searchRange(int[] nums, int target) {
         int[] arr = {-1, -1};
 
