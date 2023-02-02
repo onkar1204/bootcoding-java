@@ -6,7 +6,6 @@ public class FindPeakElement {
 //        Output: 2
         System.out.println(findPeakElement(nums));
     }
-
     public static int findPeakElement(int[] nums) {
         int max = nums[0];
         int index = 0;
