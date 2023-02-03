@@ -7,7 +7,6 @@ public class ApplyOperationsToAnArray {
         int[] res = applyOperations(nums);
         for (int i=0; i< res.length; i++) {
             System.out.print(res[i] + " ");
-
         }
     }
     public static int[] applyOperations(int[] nums) {
