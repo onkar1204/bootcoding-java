@@ -2,7 +2,6 @@ package com.bootcoding.dsa.unsolved;
 
 import java.util.HashMap;
 import java.util.Map;
-
 public class CountNumberofPairsWithAbsoluteDifference {
     public static void main(String[] args) {
         int[] nums = {1,2,2,1};
