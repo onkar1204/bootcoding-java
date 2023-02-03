@@ -1,5 +1,4 @@
 package com.bootcoding.dsa;
-
 public class AddDigits{
     public static int addDigits(int num) {
         if (num < 10){
