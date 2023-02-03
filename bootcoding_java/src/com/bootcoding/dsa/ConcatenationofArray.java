@@ -3,17 +3,6 @@ package com.bootcoding.dsa;
 class ConcatenationofArray {
 
     public static void main(String[] args) {
-//        int[] nums2 = new int[nums.length*2];
-//        //Output: [1,3,2,1,1,3,2,1]}
-//        int i =0;
-//        for (int k = 0; k < nums2.length; k++) {
-//           nums2[k] = nums[i];
-//                i=i+1;
-//           if (i == nums.length){
-//               i=0;
-//           }
-//            System.out.print(nums2[k]);
-//        }
         int[] nums = {1, 3, 2, 1};
         int[] res = getConcatenation(nums);
         for (int i=0; i<res.length;i++) {
