@@ -1,5 +1,4 @@
 package com.bootcoding.dsa;
-
 public class ApplyOperationsToAnArray {
     public static void main(String[] args) {
        int[] nums = {1,2,2,1,1,0};
