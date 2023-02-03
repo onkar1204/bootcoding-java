@@ -1,4 +1,4 @@
-package com.bootcoding.dsa.unsolved;
+package com.bootcoding.dsa;
 
 import java.util.HashMap;
 import java.util.Map;
