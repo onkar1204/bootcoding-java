@@ -1,7 +1,6 @@
 package com.bootcoding.dsa.unsolved;
 import java.util.HashMap;
 import java.util.Map;
-
 public class FindtheDuplicateNumber {
     public static void main(String[] args) {
         int[] nums = {1,3,4,4,2};
