@@ -1,7 +1,6 @@
 package com.bootcoding.dsa;
 
 import java.util.Arrays;
-
 public class CommonDivisor {
     public static void main(String[] args) {
         int[] nums={3,3};
