@@ -1,7 +1,6 @@
 package com.bootcoding.dsa;
 //Concatenation of Array
 class ConcatenationofArray {
-
     public static void main(String[] args) {
         int[] nums = {1, 3, 2, 1};
         int[] res = getConcatenation(nums);
