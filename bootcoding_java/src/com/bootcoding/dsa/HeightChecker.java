@@ -22,7 +22,6 @@ public class HeightChecker {
 //                }else if (heights[i] != arr[i]){
 //                    count++;
 //                }
-
             }
 
 
