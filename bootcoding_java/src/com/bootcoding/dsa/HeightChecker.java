@@ -24,7 +24,6 @@ public class HeightChecker {
 //                }
             }
 
-
         }return count;
     }
 }
