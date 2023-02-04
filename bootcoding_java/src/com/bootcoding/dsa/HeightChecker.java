@@ -1,5 +1,4 @@
 package com.bootcoding.dsa;
-
 import java.util.Arrays;
 
 public class HeightChecker {
