@@ -23,7 +23,6 @@ public class HeightChecker {
 //                    count++;
 //                }
             }
-
         }return count;
     }
 }
