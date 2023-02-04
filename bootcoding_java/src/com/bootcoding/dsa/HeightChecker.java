@@ -21,7 +21,7 @@ public class HeightChecker {
 
         for (int i = 0; i < heights.length; i++) {
             if (heights[i] != arr[i]) {
-                c1++;
+                count++;
 //                }else if (heights[i] != arr[i]){
 //                    count++;
 //                }
