@@ -16,7 +16,6 @@ public class HeightChecker {
 
 
 
-
         }
         Arrays.sort(arr);
         int count = 0;
