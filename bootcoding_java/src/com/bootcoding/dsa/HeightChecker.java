@@ -14,7 +14,6 @@ public class HeightChecker {
         for (int a = 0; a < heights.length; a++) {
             arr[a] = heights[a];
 
-
         }
         Arrays.sort(arr);
         int count = 0;
