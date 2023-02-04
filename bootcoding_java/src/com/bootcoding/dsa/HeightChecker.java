@@ -29,6 +29,6 @@ public class HeightChecker {
             }
 
 
-        }return c1;
+        }return count;
     }
 }
