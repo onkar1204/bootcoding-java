@@ -8,7 +8,6 @@ public class HeightChecker {
 //        Output: 3
         System.out.println(heightChecker(heights));
     }
-
     public static int heightChecker(int[] heights) {
         int[] arr = new int[heights.length];
         for (int a = 0; a < heights.length; a++) {
