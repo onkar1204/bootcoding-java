@@ -13,7 +13,6 @@ public class Sqrt {
             return x;
         }
 
-
         do{
             temp = sqroot;
             sqroot = (temp+(x/temp))/2;
