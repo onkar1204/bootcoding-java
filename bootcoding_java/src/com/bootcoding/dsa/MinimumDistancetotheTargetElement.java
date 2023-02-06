@@ -1,5 +1,4 @@
 package com.bootcoding.dsa;
-
 public class MinimumDistancetotheTargetElement {
     public static void main(String[] args) {
         int[] nums = {1,1,1,1,1,1,1,1,1,1};
