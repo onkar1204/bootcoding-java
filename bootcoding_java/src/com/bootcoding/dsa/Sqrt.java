@@ -14,7 +14,6 @@ public class Sqrt {
         }
 
 
-
         do{
             temp = sqroot;
             sqroot = (temp+(x/temp))/2;
