@@ -16,7 +16,6 @@ public class MinimumDistancetotheTargetElement {
             }
         }
 
-
         return res;
     }
 }
