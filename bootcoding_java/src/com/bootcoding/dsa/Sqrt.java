@@ -12,7 +12,6 @@ public class Sqrt {
         if(x == 0 || x == 1){
             return x;
         }
-
         do{
             temp = sqroot;
             sqroot = (temp+(x/temp))/2;
