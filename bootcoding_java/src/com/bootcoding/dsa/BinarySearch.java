@@ -16,5 +16,4 @@ public class BinarySearch {
         return res;
     }
 
-
 }
