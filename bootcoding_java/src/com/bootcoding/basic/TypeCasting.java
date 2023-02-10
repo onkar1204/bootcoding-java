@@ -11,7 +11,6 @@ public class TypeCasting {
 
 
 
-
         System.out.println("After convert double data type to byte : "+b);
         System.out.println("After convert double data type to int  : "+c);
     }
