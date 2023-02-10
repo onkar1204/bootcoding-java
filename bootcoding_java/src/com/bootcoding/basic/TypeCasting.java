@@ -7,7 +7,6 @@ public class TypeCasting {
         byte b = (byte) a;
         int c = (int) a;
 
-
         System.out.println("After convert double data type to byte : "+b);
         System.out.println("After convert double data type to int  : "+c);
     }
