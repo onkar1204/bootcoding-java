@@ -1,7 +1,6 @@
 package com.bootcoding.basic;
 
 
-
 public class TypeCasting {
     public static void main(String[] args) {
 
