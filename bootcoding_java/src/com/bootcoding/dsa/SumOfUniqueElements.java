@@ -21,7 +21,7 @@ public class SumOfUniqueElements {
     }
     for (int key: unique.keySet()){
         if (unique.get(key) == 1){
-            sum = sum + key;
+            sum += key;
         }
     }
     return sum;
