@@ -27,7 +27,6 @@ public class ConcatenationOfArray2 {
 
 
 
-
     public static String[] findRestaurant(String[] list1, String[] list2) {
         Map<Integer , String> map = new HashMap<>();
         String[] list3 = new String[list1.length + list2.length];
