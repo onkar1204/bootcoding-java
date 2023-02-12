@@ -6,7 +6,6 @@ public class YearsToDays {
         return days;
 
     }
-
     public static void main(String[] args) {
 
         int years =2;
