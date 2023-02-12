@@ -10,7 +10,6 @@ public class YearsToDays {
         int years =2;
         int days = convert(years);
         System.out.println ( years + " years " + " is " + days + " days "  );
-
 }
 }
 
