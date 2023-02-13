@@ -12,7 +12,6 @@ class EvenDigitFind {
 
 
 
-
         int sum = 0;
         int i;
         Arrays.sort(nums);
