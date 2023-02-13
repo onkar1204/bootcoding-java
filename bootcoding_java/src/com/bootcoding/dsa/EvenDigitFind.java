@@ -9,7 +9,6 @@ class EvenDigitFind {
          findNumbers(nums);
     }
     public static void findNumbers(int[] nums) {
-
         int sum = 0;
         int i;
         Arrays.sort(nums);
