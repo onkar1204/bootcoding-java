@@ -14,7 +14,6 @@ public class KeepMultiplyingFoundValuesbyTwo {
                 i =-1;
             }
 
-
         }
         return original;
     }
