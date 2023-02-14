@@ -13,7 +13,6 @@ public class KeepMultiplyingFoundValuesbyTwo {
                 original = 2*original;
                 i =-1;
             }
-
         }
         return original;
     }
