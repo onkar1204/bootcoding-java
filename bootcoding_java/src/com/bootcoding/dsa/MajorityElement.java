@@ -27,7 +27,6 @@ public class MajorityElement {
             else{
                 map.put(i,map.get(i)+1);
             }
-
             //if the value of a specific key hai reached n/2 value,then return
 
         }
