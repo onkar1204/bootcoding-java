@@ -13,7 +13,6 @@ public class MajorityElement {
         System.out.println(majorityElement(nums));
     }
     public static int majorityElement(int[] nums) {
-
         HashMap<Integer,Integer>map=new HashMap<>();
 
         for(int i:nums){
