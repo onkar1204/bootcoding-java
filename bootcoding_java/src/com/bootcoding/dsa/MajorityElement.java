@@ -18,7 +18,6 @@ public class MajorityElement {
 
 
         for(int i:nums){
-
             //if hashmap does not contain the specific key
             if(!map.containsKey(i)){
                 map.put(i,1);
