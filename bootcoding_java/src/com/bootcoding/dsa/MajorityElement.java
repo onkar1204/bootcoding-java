@@ -14,7 +14,6 @@ public class MajorityElement {
     }
     public static int majorityElement(int[] nums) {
         HashMap<Integer,Integer>map=new HashMap<>();
-
         for(int i:nums){
             //if hashmap does not contain the specific key
             if(!map.containsKey(i)){
