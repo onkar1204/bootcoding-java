@@ -20,7 +20,6 @@ public class MajorityElement {
                 map.put(i,1);
             }
 
-
             //if it does contain the specific key,increase its count/value by 1
             else{
                 map.put(i,map.get(i)+1);
