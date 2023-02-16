@@ -9,7 +9,6 @@ public class MajorityElement2 {
         System.out.println(majorityElement(nums));
     }
     public static List<Integer> majorityElement(int[] nums) {
-
         HashMap<Integer,Integer>map=new HashMap<>();
         List<Integer> store = new ArrayList();
         for(int i:nums){
