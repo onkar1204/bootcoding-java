@@ -22,7 +22,6 @@ public class MajorityElement2 {
 
 
 
-
         HashMap<Integer,Integer>map=new HashMap<>();
         List<Integer> store = new ArrayList();
         for(int i:nums){
