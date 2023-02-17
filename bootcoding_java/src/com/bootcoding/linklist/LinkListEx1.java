@@ -2,7 +2,6 @@ package com.bootcoding.linklist;
 
 public class LinkListEx1 {
     public static void main(String[] args) {
-
         LinkListEx1 linklist = new LinkListEx1();
         Node head = linklist.createLinkList();
         linklist.printLinkList(head);
