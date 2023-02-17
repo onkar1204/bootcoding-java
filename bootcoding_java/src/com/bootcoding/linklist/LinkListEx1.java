@@ -16,7 +16,6 @@ public class LinkListEx1 {
         Node n4 = new Node(40);
         Node n5 = new Node(50);
         Node n6 = new Node(60);
-
         n1.next = n2;
         n2.next = n3;
         n3.next = n4;
