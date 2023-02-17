@@ -5,7 +5,6 @@ public class LinkListEx1 {
         LinkListEx1 linklist = new LinkListEx1();
         Node head = linklist.createLinkList();
         linklist.printLinkList(head);
-
         System.out.println("Size Of LinkList : "+countLength(head));
         evenNumbers( head);
     }
