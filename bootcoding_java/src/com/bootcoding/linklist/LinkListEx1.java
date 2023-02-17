@@ -40,7 +40,6 @@ public class LinkListEx1 {
         }
         return count;
     }
-
     public static void evenNumbers(Node head){
         Node temp = head;
 
