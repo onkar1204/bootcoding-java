@@ -25,7 +25,6 @@ public class LinkListEx1 {
         return head;
     }
 
-
     public void printLinkList(Node head){
         Node temp = head;
         while (temp != null){
