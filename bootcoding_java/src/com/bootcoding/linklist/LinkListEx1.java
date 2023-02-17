@@ -8,7 +8,6 @@ public class LinkListEx1 {
         linklist.printLinkList(head);
 
         System.out.println("Size Of LinkList : "+countLength(head));
-
         evenNumbers( head);
     }
 
