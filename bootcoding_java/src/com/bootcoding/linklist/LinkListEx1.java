@@ -8,7 +8,6 @@ public class LinkListEx1 {
         System.out.println("Size Of LinkList : "+countLength(head));
         evenNumbers( head);
     }
-
     public  Node createLinkList(){
         Node head;
 
