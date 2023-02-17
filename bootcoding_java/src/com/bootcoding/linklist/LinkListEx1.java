@@ -42,7 +42,6 @@ public class LinkListEx1 {
     }
     public static void evenNumbers(Node head){
         Node temp = head;
-
         while (temp != null){
             if (temp.data % 2 == 0){
                 System.out.println( "Even LL : "+temp.data);
