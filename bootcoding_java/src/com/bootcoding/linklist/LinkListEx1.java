@@ -21,7 +21,6 @@ public class LinkListEx1 {
         n3.next = n4;
         n5.next = n1;
         n4.next = n6;
-
         head = n5;
 
         return head;
