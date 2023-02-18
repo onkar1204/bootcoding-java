@@ -14,7 +14,6 @@ public class InsertElement {
         Node n5 = new Node(50);
         Node n6 = new Node(60);
         Node n7 = new Node(70);
-
         InsertElement ie = new InsertElement();
         Node head = ie.createLinkList();
         Node h = ie.insertFirst(head,n5);
