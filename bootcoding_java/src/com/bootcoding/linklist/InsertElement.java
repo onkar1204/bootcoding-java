@@ -30,7 +30,6 @@ public class InsertElement {
         n1.next = n2;
         n2.next = n3;
         n3.next = n4;
-
         head = n1;
 
         return head;
