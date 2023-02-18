@@ -3,7 +3,6 @@ package com.bootcoding.linklist;
 import java.util.List;
 
 
-
 //count /2
 //make new method to add element in  middle
 
