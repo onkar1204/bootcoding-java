@@ -39,7 +39,6 @@ public class InsertElement {
         return head;
     }
     public void insertLast(Node head , Node n6){
-
         Node temp = head;
         while (temp.next != null) {
             temp = temp.next;
