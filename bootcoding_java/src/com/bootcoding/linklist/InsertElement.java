@@ -10,7 +10,6 @@ import java.util.List;
 
 public class InsertElement {
     public static void main(String[] args) {
-
         Node n5 = new Node(50);
         Node n6 = new Node(60);
         Node n7 = new Node(70);
