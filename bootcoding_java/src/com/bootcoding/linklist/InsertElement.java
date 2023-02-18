@@ -22,7 +22,6 @@ public class InsertElement {
         System.out.println(ie.countLength(head));
         ie.printLinkList(h);
 
-
     }
     public  Node createLinkList(){
         Node head;
