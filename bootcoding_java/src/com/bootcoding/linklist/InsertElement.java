@@ -46,7 +46,6 @@ public class InsertElement {
         temp.next =n6;
     }
     public void insertmiddle(Node head , Node n7){
-
         // Find size of linkedlist
         // Take count variable
         // Traverse LinkedList
