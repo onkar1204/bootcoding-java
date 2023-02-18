@@ -34,7 +34,6 @@ public class InsertElement {
         return head;
     }
     public  Node insertFirst(Node head , Node n5){
-
         n5.next = head;
         head = n5;
         return head;
