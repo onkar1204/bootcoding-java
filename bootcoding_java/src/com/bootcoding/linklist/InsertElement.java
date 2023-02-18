@@ -86,7 +86,6 @@ public class InsertElement {
             count++;
             temp = temp.next;
         }
-
     }
     public static int countLength(Node head){
         Node temp = head;
