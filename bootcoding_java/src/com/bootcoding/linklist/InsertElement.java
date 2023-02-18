@@ -53,7 +53,6 @@ public class InsertElement {
         // when count reaches to size/2
         // Insert n7
         // swap (temp2)
-
         int size = countLength(head);
         int count=0;
         Node temp = head;
