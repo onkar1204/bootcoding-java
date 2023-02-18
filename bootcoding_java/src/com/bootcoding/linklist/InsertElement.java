@@ -23,7 +23,6 @@ public class InsertElement {
         ie.printLinkList(h);
 
 
-
     }
     public  Node createLinkList(){
         Node head;
