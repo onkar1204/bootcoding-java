@@ -6,7 +6,6 @@ public class MiddleOfLinkedList
     {
 
 
-
       int val;
       ListNode next;
       ListNode() {}
