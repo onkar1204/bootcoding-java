@@ -18,7 +18,6 @@ public class ReverseLInkedList
         while(current!= null)
         {
 
-
             next=current.next;
             current.next=previous;
             previous=current;
