@@ -19,7 +19,6 @@ public class PalindromNumber {
 
 
 
-
         if(rem == temp){
         System.out.println( rem + " Is   Palindrom");
     }else{
