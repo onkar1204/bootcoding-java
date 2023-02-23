@@ -1,5 +1,4 @@
 package com.bootcoding.myexample;
-
 public class PalindromNumber {
     public static void main(String args[]){
     int rem = 0;
