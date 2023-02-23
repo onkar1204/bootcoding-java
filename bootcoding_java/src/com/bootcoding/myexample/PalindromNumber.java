@@ -10,6 +10,17 @@ public class PalindromNumber {
         rem = rem * 10 + n%10;
         n = div;
     }
+
+
+
+
+
+
+
+
+
+
+
         if(rem == temp){
         System.out.println( rem + " Is   Palindrom");
     }else{
