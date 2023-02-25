@@ -19,7 +19,6 @@ public class ReverseLInkedList
         {
 
 
-
             next=current.next;
             current.next=previous;
             previous=current;
