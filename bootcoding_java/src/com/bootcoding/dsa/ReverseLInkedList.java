@@ -22,6 +22,7 @@ public class ReverseLInkedList
             previous=current;
             current=next;
         }
+
         head=previous;
         return head;
     }
