@@ -17,6 +17,16 @@ public class ReverseLInkedList
         ListNode next=null;
         while(current!= null)
         {
+
+
+
+
+
+
+
+
+
+
             next=current.next;
             current.next=previous;
             previous=current;
