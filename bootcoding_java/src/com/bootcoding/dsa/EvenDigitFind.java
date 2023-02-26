@@ -16,7 +16,6 @@ class EvenDigitFind {
 
 
 
-
     public static void findNumbers(int[] nums) {
         int sum = 0;
         int i;
