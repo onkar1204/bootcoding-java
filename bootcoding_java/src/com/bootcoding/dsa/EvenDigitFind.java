@@ -8,6 +8,20 @@ class EvenDigitFind {
         int[] nums ={12,345,2,6,7896};
          findNumbers(nums);
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     public static void findNumbers(int[] nums) {
         int sum = 0;
         int i;
