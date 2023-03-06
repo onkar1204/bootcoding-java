@@ -20,7 +20,6 @@ class EvenDigitFind {
                 nums[i]=div;
             }
 
-
             if (count % 2 == 0){
                 sum++;
             }
