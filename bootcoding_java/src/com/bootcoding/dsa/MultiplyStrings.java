@@ -10,7 +10,6 @@ public class MultiplyStrings {
     }
 
 
-
     public static String multiply(String num1, String num2) {
         BigInteger one = new BigInteger(num1);
         BigInteger two = new BigInteger(num2);
