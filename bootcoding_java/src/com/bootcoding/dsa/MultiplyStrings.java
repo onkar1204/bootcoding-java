@@ -8,7 +8,6 @@ public class MultiplyStrings {
         //Output: "121932631112635269"
         System.out.println(multiply(num1,num2));
     }
-
     public static String multiply(String num1, String num2) {
         BigInteger one = new BigInteger(num1);
         BigInteger two = new BigInteger(num2);
