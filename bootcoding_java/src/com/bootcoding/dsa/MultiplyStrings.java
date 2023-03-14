@@ -9,7 +9,6 @@ public class MultiplyStrings {
         System.out.println(multiply(num1,num2));
     }
 
-
     public static String multiply(String num1, String num2) {
         BigInteger one = new BigInteger(num1);
         BigInteger two = new BigInteger(num2);
