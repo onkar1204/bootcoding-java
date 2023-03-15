@@ -28,7 +28,6 @@ public class SingleNumber {
 
 
 
-
         int min = Integer.MAX_VALUE;
         int minkey = nums[0];
 
