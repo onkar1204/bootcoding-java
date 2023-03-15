@@ -20,7 +20,6 @@ public class SingleNumber {
                 map.put(nums[i], map.get(nums[i]) + 1);
             }
         }
-
         int min = Integer.MAX_VALUE;
         int minkey = nums[0];
 
