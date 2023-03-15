@@ -29,7 +29,6 @@ public class SingleNumber {
                 min = value;
                 minkey = key;
             }
-
         }
 
 
