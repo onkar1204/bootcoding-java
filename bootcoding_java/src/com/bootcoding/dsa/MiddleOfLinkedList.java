@@ -4,8 +4,9 @@ public class MiddleOfLinkedList
 {
     public class ListNode
     {
-      int val;
-      ListNode next;
+        public int data;
+        int val;
+      public ListNode next;
       ListNode() {}
       ListNode(int val) { this.val = val; }
       ListNode(int val, ListNode next)
