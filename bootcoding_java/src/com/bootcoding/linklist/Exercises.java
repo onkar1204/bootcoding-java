@@ -111,7 +111,6 @@ public class Exercises {
         }
         System.out.println("DUPLICATE VALUE : " + dup);
     }
-
     public  void findLength(Node head){
         Node temp = head;
         int count = 0;
