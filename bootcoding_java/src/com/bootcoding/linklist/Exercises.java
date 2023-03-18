@@ -80,7 +80,6 @@ public class Exercises {
     public void findDuplicate(Node head){
         Map<Integer,Integer> map = new HashMap<>();
         Node temp = head;
-
         while (temp != null){
             if (!map.containsKey(temp.data)){
                 map.put(temp.data, 1);
