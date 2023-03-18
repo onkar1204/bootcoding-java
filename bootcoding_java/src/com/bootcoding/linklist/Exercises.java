@@ -86,7 +86,6 @@ public class Exercises {
             temp = temp.next;
         }
         System.out.println("MIN NUMBERS : " + min.data);
-
     }
     public void findDuplicate(Node head){
         Map<Integer,Integer> map = new HashMap<>();
