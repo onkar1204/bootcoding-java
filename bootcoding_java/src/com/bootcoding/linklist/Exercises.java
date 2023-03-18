@@ -108,6 +108,7 @@ public class Exercises {
         }
         System.out.println("LENGTH OF LIST : " + count);
     }
+
     public void primeNumber(Node head){
         Node temp = head;
         while (temp != null){
