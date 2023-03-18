@@ -25,7 +25,6 @@ public class Exercises {
         Node n8 = new Node(120);
         Node n9 = new Node(120);
 
-
         n1.next = n2;
         n2.next = n3;
         n3.next = n4;
