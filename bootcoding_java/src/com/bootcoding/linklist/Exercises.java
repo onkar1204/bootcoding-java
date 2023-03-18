@@ -73,7 +73,6 @@ public class Exercises {
             temp = temp.next;
         }
         System.out.println("MAX NUMBERS : " + max.data);
-
     }
     public void minNumber(Node head){
         Node temp = head;
