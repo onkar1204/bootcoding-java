@@ -49,7 +49,6 @@ public class Exercises {
         Node temp = head;
         while (temp != null){
             if (temp.data % 2 == 0){
-
             }else {
                 System.out.println("ODD NUMBERS : " + temp.data);
             }
