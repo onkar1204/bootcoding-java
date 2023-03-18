@@ -112,7 +112,6 @@ public class Exercises {
         Node temp = head;
         while (temp != null){
             boolean isPrime = true;
-
         }
     }
 
