@@ -1,7 +1,6 @@
 package com.bootcoding.linklist;
 import java.util.HashMap;
 import java.util.Map;
-
 public class Exercises {
     public static void main(String[] args) {
         Exercises ex = new Exercises();
