@@ -50,7 +50,6 @@ public class Exercises {
             }
             temp = temp.next;
         }
-
     }
     public void oddNumber(Node head){
         Node temp = head;
