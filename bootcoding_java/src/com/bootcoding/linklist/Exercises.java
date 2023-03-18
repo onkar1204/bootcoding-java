@@ -114,5 +114,4 @@ public class Exercises {
             boolean isPrime = true;
         }
     }
-
 }
