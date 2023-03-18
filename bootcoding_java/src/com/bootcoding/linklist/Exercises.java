@@ -39,7 +39,6 @@ public class Exercises {
         n8.next = n9;
 
         head = n1;
-
         return head;
     }
     public void evenNumber(Node head){
