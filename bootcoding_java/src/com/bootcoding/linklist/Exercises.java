@@ -62,7 +62,6 @@ public class Exercises {
             }
             temp = temp.next;
         }
-
     }
     public void maxNumber(Node head){
         Node temp = head;
