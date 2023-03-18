@@ -33,7 +33,6 @@ public class Exercises {
         n6.next = n7;
         n7.next = n8;
         n8.next = n9;
-
         head = n1;
         return head;
     }
