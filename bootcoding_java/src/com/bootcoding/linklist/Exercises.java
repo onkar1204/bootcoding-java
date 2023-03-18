@@ -15,7 +15,6 @@ public class Exercises {
     }
     public  Node createLinkList(){
         Node head;
-
         Node n1 = new Node(10);
         Node n2 = new Node(220);
         Node n3 = new Node(30);
