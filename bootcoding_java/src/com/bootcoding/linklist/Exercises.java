@@ -110,7 +110,6 @@ public class Exercises {
     }
 
 
-
     public void primeNumber(Node head){
         Node temp = head;
         while (temp != null){
