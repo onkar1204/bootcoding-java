@@ -24,5 +24,6 @@ class EvenDigitFind {
             }
         }
         System.out.println(sum);
+
     }
 }
