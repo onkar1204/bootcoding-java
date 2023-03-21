@@ -35,7 +35,6 @@ class EvenDigitFind {
 
 
 
-
             if (count % 2 == 0){
                 sum++;
             }
