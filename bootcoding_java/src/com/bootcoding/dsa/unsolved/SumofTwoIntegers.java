@@ -7,6 +7,7 @@ public class SumofTwoIntegers {
         System.out.println(getSum(a,b));
     }
 
+
     public static int getSum(int a, int b) {
        return Integer.sum(a,b);
     }
