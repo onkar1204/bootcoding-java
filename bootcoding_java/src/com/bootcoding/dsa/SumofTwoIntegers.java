@@ -1,4 +1,4 @@
-package com.bootcoding.dsa.unsolved;
+package com.bootcoding.dsa;
 
 public class SumofTwoIntegers {
     public static void main(String[] args) {
@@ -6,7 +6,8 @@ public class SumofTwoIntegers {
 //        Output: 3
         System.out.println(getSum(a,b));
     }
+
     public static int getSum(int a, int b) {
-       return Integer.sum(a,b);
+        return Integer.sum(a,b);
     }
 }
