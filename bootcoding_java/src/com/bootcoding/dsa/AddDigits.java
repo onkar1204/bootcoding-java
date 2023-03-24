@@ -7,6 +7,7 @@ public class AddDigits{
         return addDigits(num/10 + num%10);
     }
 
+
     public static void main(String[] args) {
             int num = 38;
         System.out.println(addDigits(num));
