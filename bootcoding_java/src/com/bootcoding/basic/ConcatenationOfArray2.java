@@ -24,5 +24,6 @@ public class ConcatenationOfArray2 {
             list3[temp++] = list2[j];
         }
         return list3;
+        
     }
 }
