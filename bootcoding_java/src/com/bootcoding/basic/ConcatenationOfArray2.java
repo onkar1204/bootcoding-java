@@ -23,6 +23,6 @@ public class ConcatenationOfArray2 {
         for (int j=0; j<list2.length; j++){
             list3[temp++] = list2[j];
         }
-        return list3;
+        return list3;   
     }
 }
