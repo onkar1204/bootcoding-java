@@ -8,7 +8,6 @@ public class countlength {
         num = num / 10;
          count++;
 
-
         }
         System.out.println(count);
     }
