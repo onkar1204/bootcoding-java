@@ -9,7 +9,6 @@ public class countlength {
          count++;
 
 
-
         }
         System.out.println(count);
     }
