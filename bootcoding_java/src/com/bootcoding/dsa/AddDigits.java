@@ -11,5 +11,4 @@ public class AddDigits{
         System.out.println(addDigits(num));
         }
 
-
     }
