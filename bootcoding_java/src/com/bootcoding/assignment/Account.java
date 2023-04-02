@@ -31,6 +31,7 @@ public class Account {
     }
 
     public List<Double> getWithdrawTransactions() {
+        
         return withdrawTransactions;
     }
 
