@@ -25,4 +25,5 @@ public class ConcatenationOfArray2 {
         }
         return list3;   
     }
+    
 }
