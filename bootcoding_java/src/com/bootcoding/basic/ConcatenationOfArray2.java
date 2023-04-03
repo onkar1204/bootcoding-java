@@ -12,9 +12,7 @@ public class ConcatenationOfArray2 {
         for (int i=0; i< res.length; i++){
             System.out.println(res[i]);
         }
-        
-        
-        
+       
       
         
     }
