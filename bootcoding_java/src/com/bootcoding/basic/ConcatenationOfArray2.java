@@ -12,7 +12,7 @@ public class ConcatenationOfArray2 {
         for (int i=0; i< res.length; i++){
             System.out.println(res[i]);
         }
-      
+     
     }
     public static String[] findRestaurant(String[] list1, String[] list2) {
         Map<Integer , String> map = new HashMap<>();
