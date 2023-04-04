@@ -16,6 +16,8 @@ public class Account {
     public int getAccountNumber() {
         return accountNumber;
     }
+    
+    
 
     public void setAccountNumber(int accountNumber) {
         this.accountNumber = accountNumber;
@@ -30,6 +32,7 @@ public class Account {
     }
 
     public List<Double> getWithdrawTransactions() {
+        
         return withdrawTransactions;
     }
 
