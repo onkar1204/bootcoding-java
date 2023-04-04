@@ -10,4 +10,5 @@ public class AddDigits{
             int num = 38;
         System.out.println(addDigits(num));
         }
+
     }
