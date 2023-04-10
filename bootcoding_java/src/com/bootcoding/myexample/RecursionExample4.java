@@ -10,6 +10,7 @@ public static int countDigits(int num) {
     return count;
 
 
+
 }
     public static void main(String[] args) {
         int num = 12345678;
