@@ -8,7 +8,6 @@ public static int countDigits(int num) {
         countDigits(num / 10);
     }
     return count;
-
 }
     public static void main(String[] args) {
         int num = 12345678;
