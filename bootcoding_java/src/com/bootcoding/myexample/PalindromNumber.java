@@ -2,7 +2,7 @@ package com.bootcoding.myexample;
 public class PalindromNumber {
     public static void main(String args[]){
     int rem = 0;
-    int n = 239;
+    int n = 121;
     int temp = n;
         while(n != 0){
     int div = n/10;
