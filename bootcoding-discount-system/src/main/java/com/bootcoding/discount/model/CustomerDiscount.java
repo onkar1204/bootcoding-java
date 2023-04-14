@@ -2,6 +2,7 @@ package com.bootcoding.discount.model;
 
 import java.util.Date;
 
+
 public class CustomerDiscount {
     private String Name;
     private int Discount;
