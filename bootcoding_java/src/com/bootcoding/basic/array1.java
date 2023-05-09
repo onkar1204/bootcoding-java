@@ -8,8 +8,8 @@ public class array1 {
         age[2] = 20;
         age[3] = 25;
         age[4] = 30;
-        for(int count=0;  count < 5; count++){
-            System.out.println(age[count]);
+        for(int i=0;  i < 5; i++){
+            System.out.println(age[i]);
         }
     }
 }
