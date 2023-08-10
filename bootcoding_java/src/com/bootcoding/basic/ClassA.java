@@ -7,9 +7,7 @@ public class ClassA {
 
         System.out.println(Math.max(a,b));
         System.out.println(Math.random());
-    }
-
-}
+    }}
 
 
 
