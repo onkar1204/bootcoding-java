@@ -1,4 +1,5 @@
 package com.bootcoding.basic;
+
 public class ClassA {
     public static void main(String[] args) {
         
