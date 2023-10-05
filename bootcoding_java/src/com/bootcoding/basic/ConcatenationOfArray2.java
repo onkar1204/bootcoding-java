@@ -1,7 +1,6 @@
 package com.bootcoding.basic;
 
 import java.util.HashMap;
-
 import java.util.Map;
 
 public class ConcatenationOfArray2 { 
