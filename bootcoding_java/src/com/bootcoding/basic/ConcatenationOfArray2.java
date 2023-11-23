@@ -3,6 +3,7 @@ package com.bootcoding.basic;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class ConcatenationOfArray2 { 
     public static void main(String[] args) {
        String[] list1 = {"Shogun","Tapioca Express","Burger King","KFC"};
