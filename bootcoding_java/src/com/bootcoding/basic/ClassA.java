@@ -4,9 +4,6 @@ public class ClassA {
         
         int a = 10;
         int b = 20;
-
-        
-
         System.out.println(Math.max(a,b));
         System.out.println(Math.random());
     }
