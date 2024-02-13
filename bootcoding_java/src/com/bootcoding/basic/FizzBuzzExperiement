@@ -2,7 +2,7 @@
 public class FizzBuzzExperiement{
 
      public static void main(String []args){
-      
+     
       int n =300;
       int c1=0,c2=0,c3=0,c4= 0;
       for(int i=1; i<=n; i++){
