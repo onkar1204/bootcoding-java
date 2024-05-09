@@ -9,6 +9,7 @@ public class ClassA {
         System.out.println(Math.random());
 
         
+        
     }
 }
 
